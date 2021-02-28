@@ -1,0 +1,38 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: none;
+    width: 5%;
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+}
+
+img {
+    width: 50%;
+    border-radius: 100%;
+}
+
+h1 {
+    color: #66BFBF;
+    text-align: center;
+    font: 3em sans-serif;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+.books {
+    color: grey;
+}
+
+.btn:hover {
+    background-color: #66BFBF;
+}
+
+
+/* Styles revisted 28/02/2020 */
