@@ -1,5 +1,7 @@
 body {
     background-color: #EAF6F6;
+    margin: 0px;
+    padding: 0px;
 }
 
 hr {
@@ -32,6 +34,11 @@ h3 {
 
 .btn:hover {
     background-color: #66BFBF;
+}
+
+a[href] {
+    background-color: white;
+    color: black;
 }
 
 
